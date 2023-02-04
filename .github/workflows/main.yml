@@ -18,4 +18,4 @@ jobs:
           plugin_lines: yes
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_ignored: css, sass, typescript, javascript, perl, prolog
+          plugin_languages_ignored: css, sass, scss, typescript, javascript, perl, prolog
