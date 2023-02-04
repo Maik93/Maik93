@@ -1,18 +1,10 @@
-### Hi there 👋
+### Hi there 🔭
+
+I'm a Ph.D. candidate in Perceptual Robotics 🤖, I focus my research on high-level controls for autonomous vehicles, both terrestrials 🏎️ and aerials 🛸.
+
+I also enjoy Embedded programming!
+
+
+You can find me on [Linked![in](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png)](https://www.linkedin.com/in/michael-mugnai-a33347185/).
 
 ![Metrics](/github-metrics.svg)
-
-<!--
-**Maik93/Maik93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
